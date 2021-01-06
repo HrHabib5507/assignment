@@ -1,0 +1,154 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    margin:0px;
+ 
+
+}
+.orange{
+    color: rgb(0, 81, 255);
+}
+#pdng-crt{
+    padding-bottom: 5%;
+}
+#size-ctr2{
+    padding-top: 7% ;
+
+}
+section{
+    height: 25%;
+    width: 100%;
+
+}
+h1{
+    font-size: 90px;
+}
+p{
+    font-size: 30px;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(213, 122, 255), rgb(62, 8, 241));
+    background-color: rgb(195, 0, 255);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    }
+.challanging{
+    background-color: rgb(245, 238, 248);
+    width: 100%;
+    float: left;
+}
+.sp{
+    font-size: 80px;
+    text-align: center;
+    padding: 50px 20px;
+}
+.ltp{
+    height: 95%;
+    width: 25%;
+    float: left;
+
+
+}
+.ex-project{
+    box-shadow: 10px 10px 40px darkgray;
+    border-radius: 20px ;
+    margin-bottom: 5%;
+ 
+
+}
+
+.first-part{
+    margin-left: 50px;
+}
+#details{
+    width: 90%;
+    height: 75% ;
+
+}
+.size-ctr{
+    font-size: 50px;
+    padding-left: 5%;
+    
+}
+.per-ctr{
+    color: grey;
+    font-size: 25px;
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
+#box-ctr{
+    margin-left:10%;
+}
+#box-ctr2{
+    margin-left: 2%;
+}
+#box-ctr3{
+    margin-left: 2%;
+    margin-right: 10%;
+}
+#tp-crt{
+    height: 100%;
+    width: 50%;
+
+}
+#last-heading{
+    text-align: center;
+ 
+}
+
+#next-lvl{
+    height:500px;
+    width: 500px;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10% 50% 10% 50%;
+    border-radius: 50px;
+}
+
+
+.half3{
+    width: 100%;
+    height: 500px;
+    float:left;
+    padding: 2% 2% 2% 2%;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    margin: 10% 50% 20% 30%;
+    border-radius: 2%;
+
+    }
+    #osohay{
+        text-align: center;
+        font-size: 100px ;
+        padding: 8%;
+        padding-top: 20%;
+    }
+    #gorib{
+        text-align: center;
+        font-size: 50px ;
+    }
+   
+   .half4{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+    }
+#unique{
+    background-image: initial;
+
+}
+.link2{
+    text-decoration: none;
+    font-size: 100px;
+}
